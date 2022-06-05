@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tsuru/docker-cluster/cluster"
-	cstorage "github.com/tsuru/docker-cluster/storage"
+	"github.com/Thifnmi/docker-cluster/cluster"
+	cstorage "github.com/Thifnmi/docker-cluster/storage"
 )
 
 func assertIsNil(val interface{}, t *testing.T) {

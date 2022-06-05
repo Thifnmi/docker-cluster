@@ -5,8 +5,8 @@ import (
 
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
-	"github.com/tsuru/docker-cluster/cluster"
-	"github.com/tsuru/docker-cluster/storage"
+	"github.com/Thifnmi/docker-cluster/cluster"
+	"github.com/Thifnmi/docker-cluster/storage"
 )
 
 type mongodbStorage struct {

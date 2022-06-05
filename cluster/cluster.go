@@ -16,7 +16,7 @@ import (
 
 	"github.com/fsouza/go-dockerclient"
 	"github.com/fsouza/go-dockerclient/testing"
-	"github.com/tsuru/docker-cluster/log"
+	"github.com/Thifnmi/docker-cluster/log"
 )
 
 var (

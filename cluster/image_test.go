@@ -11,8 +11,8 @@ import (
 
 	"github.com/fsouza/go-dockerclient"
 	dtesting "github.com/fsouza/go-dockerclient/testing"
-	"github.com/tsuru/docker-cluster/storage"
-	"github.com/tsuru/tsuru/safe"
+	"github.com/thifnmi/mypaasdocker-cluster/storage"
+	"github.com/thifnmi/mypaasmypaas/safe"
 )
 
 func TestRemoveImage(t *testing.T) {

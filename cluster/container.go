@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/fsouza/go-dockerclient"
-	"github.com/tsuru/docker-cluster/log"
+	"github.com/thifnmi/mypaasdocker-cluster/log"
 )
 
 type Container struct {

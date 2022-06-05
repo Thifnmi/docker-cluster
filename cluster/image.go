@@ -10,8 +10,8 @@ import (
 	"sync"
 
 	"github.com/fsouza/go-dockerclient"
-	"github.com/tsuru/tsuru/provision/docker/fix"
-	"github.com/tsuru/tsuru/safe"
+	"github.com/thifnmi/mypaasmypaas/provision/docker/fix"
+	"github.com/thifnmi/mypaas/safe"
 )
 
 type ImageHistory struct {
